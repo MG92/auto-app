@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# mac specific 
+.DS_Store
+
+django-react-app/
